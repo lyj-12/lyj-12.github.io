@@ -20,13 +20,9 @@ layout: page
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-
 - Edge LLMs
-
 - LLM Networking
-
-- Attack and Defense
+- Attack, Defense, Reslience
 
 
 ---
