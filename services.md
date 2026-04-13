@@ -13,7 +13,7 @@ title: Services
 
 ### Reviewer
 
-- **Journals**
+- **Journal:**
 
 - IEEE Communications Letters (2025)
 
@@ -21,9 +21,9 @@ title: Services
 
 - Elsevier: Computers in Human Behavior Reports (2026)
 
-  <br>
+  
 
-- **Conferences**
+- **Conference:**
 
 - AAAI Conference on Artificial Intelligence (AAAI)
 
@@ -69,8 +69,6 @@ title: Services
 - Student Volunteer in the 38th Annual AAAI Conference on Artificial Intelligence (2024)
 
 - Student volunteer in the 44th session of the World Heritage Committee (2021)
-
-  <br>
 
 
 ---
