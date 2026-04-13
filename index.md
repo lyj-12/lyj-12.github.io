@@ -28,7 +28,6 @@ layout: page
 
 - Attack and Defense
 
-  <br>
 
 ---
 
@@ -45,5 +44,3 @@ layout: page
 - **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
 
 - **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-
-  <br>
