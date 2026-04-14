@@ -63,12 +63,11 @@ title: Services
 ## Voluntary Service
 
 - Student Volunteer in the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (2024)
-
 - Student Volunteer in the 22nd ACM International Conference on Mobile Systems, Applications, and Services (2024)
-
 - Student Volunteer in the 38th Annual AAAI Conference on Artificial Intelligence (2024)
-
 - Student volunteer in the 44th session of the World Heritage Committee (2021)
+
+
 
 
 ---
