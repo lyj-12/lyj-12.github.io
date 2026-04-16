@@ -7,20 +7,20 @@ description: Here is personal website of YingJie Liu.  # Strongly recommended fo
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://lyj-12.github.io/
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
   name: YingJie Liu
-  avatar: cam_logo.png   # 剑桥校徽（正方形）
+  avatar: logo.jpeg   #
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: liuyingjiemail@126.com
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  github: GuangLun2000
+  github: lyj-12
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # facebook: caihanlin2002
@@ -41,18 +41,14 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 #  `external: true` opens the link in a new tab.
 # --------------------------------------------------
 links:
-  - title: About Me
+  - title: 关于我
     url: /
-  - title: Publications
+  - title: 论文
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
+#  - title: Awards
+#    url: /awards/
+  - title: 博客
     url: /blogs/
-  - title: 中文
-    url: /cn/
 
 
 # --------------------------------------------------

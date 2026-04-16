@@ -6,13 +6,10 @@ title: Publications
 
 > (†: equal contribution, ~~: corresponding author)
 
-## Paper
+## 论文
 
-- Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs<br>**Hanlin Cai**, Kai Li, Haofan Dong, Houtianfu Wang, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- Liu Y. Robust urban air quality index prediction for pollution management via entropy-guided multiscale denoising and optimization-driven neuro-fuzzy modeling 2026. https://doi.org/10.1016/j.uclim.2026.102788
 
-  
+- Liu Y, Miao F. Improving Offshore Wind Speed Forecasting with a CRGWAA-Enhanced Adaptive Neuro-Fuzzy Inference System. JMSE 2025;13:908. https://doi.org/10.3390/jmse13050908.
 
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~~<br>Submitted to an IEEE ComSoc Magazine, 2025.<br>
-
-
-<br>
+- Liu Y, Miao F. Robust Oﬀshore Wind Speed Forecasting via Quantum-Oppositional BKA-Optimized Adaptive Neuro-Fuzzy Inference System and Adaptive VMD Denoising n.d. https://doi.org/10.3390/jmse13122229
