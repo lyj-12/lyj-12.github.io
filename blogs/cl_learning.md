@@ -10,3 +10,12 @@ title: 时序对比学习
 
 
 
+
+
+## [InfoTS: 具有信息感知增强的时间序列对比学习《Time Series Contrastive Learning with Information-Aware Augmentations》](https://www.cnblogs.com/ZERO-/p/18208103)
+
+
+
+
+
+![image-20260417153617027](D:\lyj-12.github.io\blogs\cl_learning.assets\image-20260417153617027.png)

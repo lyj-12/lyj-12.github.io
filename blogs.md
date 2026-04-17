@@ -8,5 +8,5 @@ title: Blogs
 
 ### 2026
 
-- [时序对比学习](https://lyj-12.github.io/blogs/blogs/cl_learning.md)<br>
+- [时序对比学习](https://lyj-12.github.io/blogs/cl_learning.md)<br>
 
