@@ -7,14 +7,14 @@ description: Here is personal website of YingJie Liu.  # Strongly recommended fo
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://lyj-12.github.io/
+url: https://lyj-12.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
   name: YingJie Liu
-  avatar: logo.jpeg   #
+  avatar: logo.jpg   #
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: liuyingjiemail@126.com
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
