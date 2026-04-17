@@ -18,4 +18,4 @@ title: 时序对比学习
 
 
 
-![image-20260417153617027](D:\lyj-12.github.io\blogs\cl_learning.assets\image-20260417153617027.png)
+![image-20260417153617027](https://lyj-12.github.io/blogs/cl_learning.assets/image-20260417153617027.png)
