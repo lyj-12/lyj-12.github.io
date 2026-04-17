@@ -8,8 +8,5 @@ title: Blogs
 
 ### 2026
 
-- To be updated.
+- [时序对比学习](https://lyj-12.github.io/blogs/blogs/cl_learning.md)<br>
 
-### 2023
-
-- [🔥 极简风Jekyll个人网站搭建指南](https://caihanlin.com/blogs/web)<br>

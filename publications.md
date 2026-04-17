@@ -14,9 +14,9 @@ title: Publications
 
 
 
-![image-20260417123932668](lyj-12.github.io/publications.assets/image-20260417123932668.png)
+![image-20260417123932668](https://lyj-12.github.io/publications.assets/image-20260417123932668.png)
 
-![image-20260417124007929](lyj-12.github.io/publications.assets/image-20260417124007929.png)
+![image-20260417124007929](https://lyj-12.github.io/publications.assets/image-20260417124007929.png)
 
 
 
@@ -24,7 +24,7 @@ title: Publications
   -  [DOI](https://doi.org/10.3390/jmse13050908)
   -  [PDF](https://lyj-12.github.io/mypaper/Liu和Miao - 2025 - Improving Offshore Wind Speed Forecasting with a CRGWAA-Enhanced Adaptive Neuro-Fuzzy Inference Syst.pdf)
 
-![image-20260417124044278](lyj-12.github.io/publications.assets/image-20260417124044278.png)
+![image-20260417124044278](https://lyj-12.github.io/publications.assets/image-20260417124044278.png)
 
 
 
@@ -34,4 +34,4 @@ title: Publications
   - [DOI](https://doi.org/10.3390/jmse13122229) 
   - [PDF](https://lyj-12.github.io/mypaper/Liu和Miao - Robust Oﬀshore Wind Speed Forecasting via Quantum-Oppositional BKA-Optimized Adaptive Neuro-Fuzzy In.pdf)
 
-![image-20260417124125937](lyj-12.github.io/publications.assets/image-20260417124125937.png)
+![image-20260417124125937](https://lyj-12.github.io/publications.assets/image-20260417124125937.png)
