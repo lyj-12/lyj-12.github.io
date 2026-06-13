@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /blogs/agent/langchain/index.html
+title: LangChain 
+---
+
 # LangChain 入门到实战：构建你的第一个 LLM 应用
 
 > LangChain 是一个专为大语言模型（LLM）应用开发设计的框架，帮助开发者将模型、数据、工具和逻辑链接在一起，构建真正有用的 AI 应用。

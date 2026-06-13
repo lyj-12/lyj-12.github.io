@@ -1,3 +1,15 @@
+---
+layout: page
+permalink: /blogs/agent/fastapi/index.html
+title: FastAPI
+---
+
+* awsl  //星号后可能需要空一格，后面需要加上一段文本（用途不明，但是非加不可） 
+{:toc}
+
+
+
+
 # FastAPI 入门到实战：构建高性能 Python Web API
 
 > FastAPI 是一个现代、快速（高性能）的 Web 框架，用于构建基于 Python 的 API，基于标准的 Python 类型提示。
