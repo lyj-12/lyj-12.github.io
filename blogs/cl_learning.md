@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /blogs/cl_learning/index.html
 title: 时序对比学习
 ---

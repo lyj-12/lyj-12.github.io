@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /blogs/gpu/index.html
 title: GPU
 ---

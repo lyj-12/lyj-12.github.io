@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /blogs/agent/fastapi/index.html
 title: FastAPI
 ---
