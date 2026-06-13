@@ -41,6 +41,12 @@
   <div class="article-author-top">
     {% include author-bio.html %}
   </div>
+
+  <!-- ScrollSpy TOC sidebar (desktop >=600px fixed right) -->
+  <div class="toc" id="toc">
+    <header><h3>目录</h3></header>
+  </div><!-- /#toc -->
+
   <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
     <div class="headline-wrap">
       <h1 itemprop="headline">{{ page.title }}</h1>
@@ -86,51 +92,30 @@
 
 {% include scripts.html %}
 
-<!-- ScrollNav 目录 -->
+<!-- ScrollSpy TOC scrollnav -->
 <script src="https://unpkg.com/scrollnav@3.0.1/dist/scrollnav.min.umd.js"></script>
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const ct = document.querySelector('.article-wrap');  // 修正为实际 class
-    if (ct) {
-      scrollnav.init(ct, {
-        debug: false,
-        easingStyle: 'linear',
-        sections: 'h2',        // 根据你文章实际标题层级调整
-        subSections: 'h3',     // 不需要二级目录就删掉这行
-      });
-    }
+  document.addEventListener("DOMContentLoaded", function () {
+    var ct = document.querySelector(".article-wrap");
+    if (!ct) return;
+    var hasHeadings = ct.querySelector("h2");
+    if (!hasHeadings) return;
+    scrollnav.init(ct, { debug: false, easingStyle: "linear", sections: "h2", subSections: "h3" });
+    var toc = document.getElementById("toc");
+    var nav = document.querySelector(".scroll-nav");
+    if (toc && nav) { toc.appendChild(nav); }
   });
 </script>
 
 <style>
-  .scroll-nav__list,
-  .scroll-nav__sub-list {
-    margin: 0;
-    padding-left: 1.4em;
-    list-style-type: none;
-    line-height: 20px;
-  }
-
-  .scroll-nav__item {
-    margin-bottom: 5px;
-    list-style-type: none;
-  }
-
-  .scroll-nav__item--active > a {
-    font-weight: bold;
-    color: #333;
-    text-decoration: none;
-  }
-
-  .scroll-nav__link {
-    color: #555;
-    text-decoration: none;
-  }
-
-  .scroll-nav__link:hover {
-    color: #000;
-  }
-</style>     
+  #toc header h3 { margin: 0; padding: 5px 10px; color: #fff; font-size: 1em; letter-spacing: 0; }
+  #toc header h3:hover { cursor: pointer; }
+  #toc .scroll-nav { background: #4d4d4d; padding: 8px 0; max-height: calc(100vh - 200px); overflow-y: auto; }
+  #toc .scroll-nav__list, #toc .scroll-nav__sub-list { margin: 0; padding: 0; list-style: none; }
+  #toc .scroll-nav__item { margin: 0; list-style: none; border-bottom: 1px solid rgba(255,255,255,0.08); }
+  #toc .scroll-nav__item:last-child { border-bottom: none; }
+  #toc .scroll-nav__link { display: block; padding: 6px 10px; color: #ccc; text-decoration: none; font-size: 0.85em; line-height: 1.4; }
+  #toc .scroll-nav__link:hover, #toc .scroll-nav__item--active > .scroll-nav__link { color: #fff; background: rgba(255,255,255,0.1); }
+</style>
 
 </body>
-</html>
