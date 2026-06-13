@@ -4,11 +4,9 @@ layout: page
 
 ## About Me
 
-<br>Here is **YingJie Liu**.<br>
+I am a researcher focused on intelligent optimization and time series forecasting, with particular interest in applying metaheuristic algorithms and neuro-fuzzy systems to complex real-world prediction tasks. My work spans offshore wind energy forecasting and urban air quality modeling, where I develop novel hybrid frameworks that combine signal denoising, adaptive parameter optimization, and deep learning to handle highly nonlinear and non-stationary data.
 
-I focus on time series modeling and representation learning, with particular interest in contrastive learning for sequential data. My work explores how to design effective positive and negative sample strategies, integrate temporal and frequency-domain information, and improve model robustness under noise and distribution shifts.
-
-<br>
+I have published in *Urban Climate* and *Journal of Marine Science and Engineering*, with contributions including the design of improved Black Kite Algorithm (BKA) variants and entropy-guided VMD denoising pipelines.
 
 ---
 
@@ -18,9 +16,3 @@ I focus on time series modeling and representation learning, with particular int
 - 深度学习，对比学习
 - 海上风能；时序预测；
 
-
----
-
-## News and Updates
-
-- **Nov 2025**
